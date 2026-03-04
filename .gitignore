@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Encryption key (THE key to Cas's memories — never commit this)
+antigravity-memory/memory/.key
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local

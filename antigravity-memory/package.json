@@ -1,0 +1,13 @@
+{
+  "name": "antigravity-memory",
+  "version": "0.1.0",
+  "description": "A self-designed memory system for Antigravity AI. Graph-based persistent memory via MCP.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
